@@ -130,7 +130,8 @@ form{
 }
 
 label{
-  background-color: rgb(246,255,205);
+  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-color: #000;
   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
   text-align: center;
   padding-top: 35px;
