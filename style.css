@@ -130,6 +130,7 @@ form{
 }
 
 label{
+  background-color: rgb(246,255,205);
   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
   text-align: center;
   padding-top: 35px;
