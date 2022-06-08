@@ -129,8 +129,6 @@ form{
 }
 
 label{
-  -webkit-text-stroke-width: 5px;
-  -webkit-text-stroke-color: #000;
   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
   text-align: center;
   padding-top: 35px;
